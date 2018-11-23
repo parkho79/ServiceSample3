@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Service sample</string>
+
+    <string name="service_connected">서비스 연결됨</string>
+    <string name="start_music">음악 시작</string>
+    <string name="stop_music">음악 종료</string>
+
+    <string name="default_time_value" translatable="false">00:00:00</string>
+
+</resources>
